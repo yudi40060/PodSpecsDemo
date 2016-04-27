@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
   s.author             = { "yudi" => "547429244@qq.com" }
   s.platform     = :ios, "7.0"
 
-  s.source       = { :git => "https://github.com/yudi/PodSpecsDemo.git", :tag => "1.0.0" }
+  s.source       = { :git => "https://github.com/yudi40060/PodSpecsDemo.git", :tag => "1.0.0" }
 
   s.source_files  = "Extensions", "Extensions/Extensions/*.{h,m}"
   #s.exclude_files = "Classes/Exclude"
