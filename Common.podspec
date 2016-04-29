@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
 
 # s.exclude_files = "Common/*h"
 
-  s.public_header_files = "Common/*h"
+  s.public_header_files = "Common/*{h,m}"
 
 
   # s.exclude_files = "Classes/Exclude"
