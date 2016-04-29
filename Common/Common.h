@@ -16,4 +16,4 @@ FOUNDATION_EXPORT const unsigned char CommonVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <Common/PublicHeader.h>
 
-// 1.0.1 版本
+// 1.0.2 版本
