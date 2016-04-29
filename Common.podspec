@@ -10,8 +10,8 @@ Pod::Spec.new do |s|
   s.source       = { :git => "https://github.com/yudi40060/PodSpecsDemo.git", :tag => "1.0.3" }
   s.source_files  = "Common/**/*{h,m}"
 
-  s.exclude_files = "Common/*h"
-  s.public_header_files = "Common/*h"
+# s.exclude_files = "Common/*h"
+# s.public_header_files = "Common/*h"
 
 
   # s.exclude_files = "Classes/Exclude"
