@@ -1,16 +1,16 @@
 Pod::Spec.new do |s|
 
   s.name         = "Extensions"
-  s.version      = "1.0.0"
+  s.version      = "1.0.2"
   s.summary      = "Extensions"
-  s.homepage     = "https://github.com/Hequnjie/PodSpecsDemo"
+  s.homepage     = "https://github.com/yudi40060/PodSpecsDemo"
 
   s.license      = { :type => 'MIT', :file => 'LICENSE' }
 
   s.author             = { "yudi" => "547429244@qq.com" }
   s.platform     = :ios, "7.0"
 
-  s.source       = { :git => "https://github.com/Hequnjie/PodSpecsDemo.git", :tag => "1.0.0" }
+  s.source       = { :git => "https://github.com/yudi40060/PodSpecsDemo.git", :tag => "1.0.2" }
 
   s.source_files  = 'Extensions/**/*'
   #s.exclude_files = "Classes/Exclude"
